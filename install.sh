@@ -36,7 +36,7 @@ def num_to_words(num, join_tens=False):
     elif num < 60:
         return tens[(num // 10) - 2] + ('' if num % 10 == 0 else ' ' + under_20[num % 10])
     return ''
-
+fhhjh
 # Minute rhymes
 minute_rhymes = {
     'zero': ["let's go for a walk", "I'm bored, you wanna talk?", "put on warm fuzzy socks", "dump GameStop stock", "party on our block!"],
