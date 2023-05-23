@@ -53,7 +53,7 @@ minute_rhymes = {
     'eleven': ["almost seven", "like a slice of heaven", "I'll be home by seven"],
     'twelve': ["elf on the shelf", "I like pooping by myself", "pretty plants on the shelf", "stories the library delves", "pick a book from the shelf"],
     'teen': ["it's not a bad idea to clean", "put down the screen", "always follow your dreams", "revolution is clean", "challenge the line", "on cloud nine with a good storyline"],
-    'ty': ["let's feed the birdies", "you look so pretty", "let's visit the city", "Skyler, you're so witty"]
+    'ty': ["let's feed the birdies", "you look so pretty", "let's visit the city", "Skyler, you're so wittybhjjhgigjh"]
 }
 
 def create_rhyme(hour, minute):
